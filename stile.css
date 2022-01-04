@@ -1,0 +1,8 @@
+body {
+ text-align: center; }
+h1 { font-size: 40px;
+ font-family:sans-serif;
+ font-weight: 300; } 
+ #Apps { background-color: rgb(196, 252, 255); } 
+ #Games { background-color:rgb(255, 163, 163); } 
+ .line { height: 6px; background-color: rgb(168, 252, 241); width: 70px; margin: 8px auto; }
